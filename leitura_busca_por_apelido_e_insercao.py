@@ -8,7 +8,7 @@ from pathlib import Path
 DIRETORIO_AUTOENVIO = Path(r"C:\Users\Arthur\Downloads\AutoEnvio\03.09.25")
 
 # Caminho do arquivo Excel (base) no OneDrive (via sincronização local)
-EXCEL_ONEDRIVE = Path(r"C:\Users\Arthur\OneDrive\Escritorio_CWB_Sao_Francisco\TETO\teto_2025 - Copia.xlsx")
+EXCEL_ONEDRIVE = Path(r"C:\Users\Arthur\OneDrive\")
 
 # Nome da aba da planilha base
 NOME_ABA = "higiTeto"
